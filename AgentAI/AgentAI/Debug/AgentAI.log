@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\rhian\documents\agentai\agentai\main.cpp(110): warning C4996: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::copy': Call to 'std::basic_string::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(1808): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::copy'
+  AgentAI.vcxproj -> C:\Users\rhian\Documents\AgentAI\Debug\AgentAI.exe
+  AgentAI.vcxproj -> C:\Users\rhian\Documents\AgentAI\Debug\AgentAI.pdb (Full PDB)
